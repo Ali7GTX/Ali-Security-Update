@@ -1,2 +1,0 @@
-1.1
-https://github.com/ali7GTX/SecuritySystem/releases/download/v1.1/Ali_Security_Setup.exe
