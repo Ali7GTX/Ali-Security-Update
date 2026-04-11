@@ -1,1 +1,2 @@
-1.0
+1.1
+https://github.com/Ali7GTX/Ali-Security-Update/releases/download/1.0/SmCalock_Setup_V1.exe
